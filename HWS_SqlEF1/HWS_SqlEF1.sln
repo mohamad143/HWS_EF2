@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWS_SqlEF1", "HWS_SqlEF1\HWS_SqlEF1.csproj", "{CE138315-9362-4F1C-A147-FDCE2E2CE324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE138315-9362-4F1C-A147-FDCE2E2CE324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE138315-9362-4F1C-A147-FDCE2E2CE324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE138315-9362-4F1C-A147-FDCE2E2CE324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE138315-9362-4F1C-A147-FDCE2E2CE324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0257455A-77E8-449B-91EC-AAE22BCB6E47}
+	EndGlobalSection
+EndGlobal
